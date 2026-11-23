@@ -1,0 +1,1 @@
+app/src/idl/inventario.json se genera con scripts/sync-idl.sh tras anchor build
